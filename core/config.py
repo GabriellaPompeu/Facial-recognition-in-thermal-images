@@ -23,7 +23,7 @@ NUM_LEVELS = 3
 
 # Initializing training parameters
 INIT_LR = 0.0001
-NUM_EPOCHS = 40
+NUM_EPOCHS = 400
 BATCH_SIZE = 2
 
 # Defining the input image dimensions
